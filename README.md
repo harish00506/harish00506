@@ -5,51 +5,43 @@
 
 ---
 
+# 💫 About Me  
+
+🎓 **BE in Information Science & Engineering** @ Vivekananda Institute of Technology (CGPA: **8.8 / 10**)  
+💻 **Full-Stack Developer (MERN & Spring Boot)** | 📱 **Android Developer (Kotlin & Jetpack Compose)**  
+🌍 Based in **Bengaluru, India** | 📧 [Email](mailto:harishgreddy.work@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/harish-g-920003293) | [GitHub](https://github.com/harish00506)  
+
+> _"Turning ideas into scalable, user-centric solutions."_  
+
+---
+
+# 🚀 Projects  
+
+| Project | Tech | Highlights |
+|---------|------|------------|
+| 🤖 **SmartChat** | React, Node.js, Express, Ollama | AI chatbot using **Llama 3.1 (8B)** · **2s response time** · **5-turn memory** |
+| 🏋️ **FitTrack** | MERN (MongoDB, Express, React, Node.js) | CRUD fitness tracker · **50+ logs** · real-time updates · mobile-optimized |
+| 🛒 **GroceryGo** | Kotlin, Jetpack Compose, Firebase | Grocery list app with **Firebase Auth + Realtime DB** · 30% faster input · **0 crashes** |
+
+---
+
+# 🎓 Education  
+
+📍 **Vivekananda Institute of Technology, Bangalore**  
+_Bachelor of Engineering (BE) in Information Science & Engineering_  
+📊 CGPA: **8.8 / 10** (2022 – 2026)  
+
+---
+
+# 🛠️ Tech Stack  
+
 <p align="center">
-  🚀 <b>Full Stack & Android Developer</b> | 💻 Engineering Undergraduate | 🌱 Passionate about scalable and user-centric solutions
+  <img src="https://skillicons.dev/icons?i=java,kotlin,python,js,react,nodejs,express,mongodb,postgresql,mysql,firebase,androidstudio,git,github,docker,postman,aws" />
 </p>
 
-<p align="center">
-  📍 Bengaluru, India · 
-  <a href="mailto:harishgreddy.work@gmail.com">📧 Email</a> · 
-  <a href="https://linkedin.com/in/harish-g-920003293">🔗 LinkedIn</a> · 
-  <a href="https://github.com/harish00506">💻 GitHub</a>
-</p>
-
 ---
 
-## 🔧 Technical Skills
-
-| Category | Tools & Tech |
-|----------|--------------|
-| **Languages** | ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?logo=databricks&logoColor=white) |
-| **Web Development** | ![React](https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-%23000000.svg?logo=express&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?logo=firebase&logoColor=black) |
-| **Android** | ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?logo=kotlin&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-%23007396.svg?logo=jetpackcompose&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?logo=androidstudio&logoColor=black) |
-| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?logo=postgresql&logoColor=white) |
-| **DevOps & Tools** | ![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?logo=postman&logoColor=white) |
-| **Cloud & CI/CD** | ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?logo=firebase&logoColor=black) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?logo=githubactions&logoColor=white) |
-
----
-
-## 🛠 Projects
-
-| Project | Tech Stack | Highlights |
-|---------|------------|------------|
-| **SmartChat 🤖** | React · Node.js · Express · Ollama | ⚡ AI chatbot using **Llama 3.1 (8B)** · **2s response time** · **5-turn memory** for context |
-| **FitTrack 🏋️** | MERN (MongoDB · Express · React · Node.js) | 📊 Fitness tracker with CRUD workouts · **50+ logs** · Real-time updates · Mobile optimized |
-| **GroceryGo 🛒** | Kotlin · Jetpack Compose · Firebase | ✅ Grocery list app with **Firebase Auth & Realtime DB** · 30% faster item input · **0 crash reports** |
-
----
-
-## 🎓 Education
-
-| Degree | Institution | Year | CGPA |
-|--------|-------------|------|------|
-| B.E. in Information Science & Engineering | Vivekananda Institute of Technology, Bangalore | 2022 – 2026 | **8.8 / 10** |
-
----
-
-## 📜 Certifications
+# 📜 Certifications  
 
 | Course | Provider | Year | Score |
 |--------|----------|------|-------|
@@ -61,16 +53,22 @@
 
 ---
 
-## 📈 GitHub Stats
+# 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harish00506&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harish00506&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harish00506&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harish00506&theme=radical" height="150" />
 </p>
 
 ---
 
-⭐️ From [Harish G](https://github.com/harish00506)
+# 📫 Connect With Me  
+
+<p align="center">
+  <a href="mailto:harishgreddy.work@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/harish-g-920003293"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/harish00506"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
