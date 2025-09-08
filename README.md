@@ -65,11 +65,6 @@ Vivekananda Institute of Technology, Bangalore (2022 – 2026)
 - Full Stack Developer Bootcamp — GeeksforGeeks (Ongoing)  
 
 ---
-
-## 📈 GitHub Stats
-![Harish's GitHub stats](https://github-readme-stats.vercel.app/api?username=harish00506&show_icons=true&theme=radical)
-
----
 ⭐️ From [Harish G](https://github.com/harish00506)
 
 ---
